@@ -45,7 +45,7 @@ def naming_system
 portion_1 = {
   :Kingdom => {
     :Phylum => {
-      :Order => {}
+      :Class => {}
     }
   }
 }
