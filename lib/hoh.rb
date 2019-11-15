@@ -50,17 +50,5 @@ portion_1 = {
   }
 }
 
+end 
 
-naming_system[:Kingdom][:Phylum][:Class] << "Order"
-
-portion_3 = {
-  :Family => {
-    :Genus => {}
-  }
-}
-
-portion_4 = {
-  :Species => {}
-}
-
-end
