@@ -46,7 +46,7 @@ portion_1 = {
   :Kingdom => {
     :Phylum => {
       :Class => {
-        :Order => {}
+        :Label => "Order"
       }
     }
   }
